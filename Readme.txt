@@ -4,4 +4,4 @@ A web-based project for an insurance company
 - Implements a user management module
 - Provides health insurance services (pharmacies, doctors and hospitals treatment discounts)
 - Provides a web service for registered companies
-- Uses CSS, Ajax, RSS, tcPDF, nusoap-php and PHPMailer_5 technologies
+- Uses CSS, Ajax, RSS, tcPDF, nusoap-php and PHPMailer_5 technologies, and MVC software pattern
