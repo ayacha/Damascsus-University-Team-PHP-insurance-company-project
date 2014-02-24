@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Saed</title>
+  <link>http://localhost/HW/View/Login.php</link>
+  <description>see all doctors</description>
+  <item>
+    <title>Doctors</title>
+    <link>http://localhost/HW/View/Doctors/AllDoctors.php</link>
+    <description>see all pharmacies</description>
+  </item>
+  <item>
+    <title>Pharmacies</title>
+    <link>http://localhost/HW/View/Pharmacies/AllPharmacies.php</link>
+    <description>see all pharmacies</description>
+  </item>
+  <item>
+    <title>Hospitals</title>
+    <link>http://localhost/HW/View/Hospitals/AllHospitals.php</link>
+    <description>see all hospitals</description>
+  </item>
+</channel>
+
+</rss>

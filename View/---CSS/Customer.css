@@ -1,0 +1,38 @@
+#css_horizontal_menuC{
+overflow:hidden;
+width:100%;
+padding:1px;
+background-color:#FFFFFF;
+/*border:1px solid #437E7E;*/
+}
+
+/*2. the style of the links (html element <a>)*/
+#css_horizontal_menuC a{
+display:block;
+float:left;
+width:150px;
+height:25px;
+background-color:#F0F7F7;
+border-left:5px solid #C7E2E2;
+border-right:5px solid #C7E2E2;
+font-family:arial;
+font-size:15px;
+text-transform:uppercase;
+text-decoration:none;
+color:#437E7E;
+line-height:25px;
+}
+
+/*3. the css style on the hover state of the links*/
+#css_horizontal_menuC a:hover{
+background-color:#E5E5E5;
+border-left:5px solid #CCCCCC;
+border-right:5px solid #CCCCCC;
+color:#666666;
+}
+
+/* remove the left margin for the first link*/
+#css_horizontal_menuC a.first{
+margin-left:0;
+background-color:#900;
+}
